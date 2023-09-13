@@ -1,1 +1,1 @@
-# CSE428-Image-Processing
+# CSE428 - Image Processing Project
